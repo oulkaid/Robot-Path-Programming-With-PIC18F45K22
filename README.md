@@ -45,7 +45,7 @@ This is how it works :
 
 ## Demonstration
 
-### **A video demonstration is availbale via the following link :**
+### **A video demonstration is available via the following link :**
 
 *(This content is not yet available)*
 
