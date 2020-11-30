@@ -55,7 +55,7 @@ This is how it works :
 
 The project contains one single file :
 
-1. [PIC18_Assembly.asm](PIC18_Assembly.asm) : contains the Assembly code that does the whole
+1. [PIC18_Assembly.asm](src/PIC18_Assembly.asm) : contains the Assembly code that does the whole
 
 ---
 
